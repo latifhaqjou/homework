@@ -46,27 +46,6 @@ public static void main(String[] args) {
 	System.out.print("fahrenheit deegre=  ");
 	System.out.println(9/5d *celsius+32d);
 
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 	
 	
 }
